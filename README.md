@@ -9,9 +9,6 @@ Hello! I'm **Motlalepula**, a Computer Science student with a passion for creati
 
 - 🌱 I love exploring **AI & Machine Learning**, building **mobile apps**, and experimenting with **full-stack web development**.  
 - 💡 My projects focus on real-world solutions that simplify tasks and improve user experiences.  
-- 🚀 Notable Projects:
-  - [Handgesture-VolumeController](https://github.com/pulemojatau/Handgesture-VolumeController) — Python/OpenCV project enabling intuitive volume control using hand gestures.  
-  - [StudentApp](https://github.com/pulemojatau/StudentApp) — Java EE application using EJB/JPA to manage student information efficiently.  
 - 🎯 Personal Quote: "The best way to predict the future is to create it." - Kesaobaka  
 - 🌍 Location: South Africa  
 
