@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-Hello! I'm **Motlalepula**, a Computer Science student with a passion for creating impactful software solutions. I enjoy turning ideas into reality through **Web Development**, **Artificial Intelligence**, and **Mobile Development**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving world of tech.  
+Hello! I'm **Motlalepula**, a Computer Science Graduate with a passion for creating impactful software solutions. I enjoy turning ideas into reality through **Web Development**, **Artificial Intelligence**, and **Mobile Development**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving world of tech.  
 
 - 🌱 I love exploring **AI & Machine Learning**, building **mobile apps**, and experimenting with **full-stack web development**.  
 - 💡 My projects focus on real-world solutions that simplify tasks and improve user experiences.  
