@@ -9,7 +9,7 @@ Hello! I'm **Motlalepula**, a BSc in Information Technology in Computer Science 
 
 - 🌱 I love exploring **AI & Machine Learning**, building **mobile apps**, and experimenting with **full-stack web development**.  
 - 💡 My projects focus on real-world solutions that simplify tasks and improve user experiences.  
-- 🎯 Personal Quote: "The best way to predict the future is to create it." - Kesaobaka  
+- 🎯 Favoruite Quote: "The best way to predict the future is to create it."  
 - 🌍 Location: South Africa
 - 🌱 I have a growing interest in Cyber Security. And enjoy completing TryHackMe rooms and challenges to sharpen my skills.
 
