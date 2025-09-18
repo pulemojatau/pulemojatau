@@ -30,8 +30,9 @@ I believe in using technology not just for innovation, but to **make a meaningfu
 
 ## 📊 GitHub Stats
 ![Motlalepula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulemojatau&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulemojatau&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pulemojatau&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulemojatau&layout=compact&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pulemojatau&theme=radical)
+
 
 ---
 
