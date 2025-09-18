@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Motlalepula Mojatau
+# 👋 Hi, I'm Motlalepula Jonathan Mojatau
 ### *"Always Learning & Growing."*  
 💻 Computer Science Graduate & Passionate Developer | South Africa
 
 ---
 
 ## About Me
-Hello! I'm **Motlalepula**, a Computer Science Graduate with a passion for creating impactful software solutions. I enjoy turning ideas into reality through **Web Development**, **Artificial Intelligence**, and **Mobile Development**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving world of tech.  
+Hello! I'm **Motlalepula**, a BSc in Information Technology in Computer Science and Informatics Graduate at University of Johannesburg with a passion for creating impactful software solutions. I enjoy turning ideas into reality through **Web Development**, **Artificial Intelligence**,**Cyber Security**, and **Mobile Development**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving world of tech.  
 
 - 🌱 I love exploring **AI & Machine Learning**, building **mobile apps**, and experimenting with **full-stack web development**.  
 - 💡 My projects focus on real-world solutions that simplify tasks and improve user experiences.  
 - 🎯 Personal Quote: "The best way to predict the future is to create it." - Kesaobaka  
-- 🌍 Location: South Africa  
+- 🌍 Location: South Africa
+- 🌱 I have a growing interest in Cyber Security. And enjoy completing TryHackMe rooms and challenges to sharpen my skills.
 
 I believe in using technology not just for innovation, but to **make a meaningful impact** on people's lives. Whether it’s building apps, experimenting with AI, or contributing to open-source projects, I strive to leave a positive mark in the tech world.
 
@@ -44,9 +45,9 @@ I believe in using technology not just for innovation, but to **make a meaningfu
 
 ## 🎯 Fun Facts & Hobbies
 - ♟️ Enjoy **chess** and strategy games to sharpen problem-solving skills.  
-- 🎨 Passionate about **creative design and UI/UX aesthetics**.  
+- 🎨 Passionate about **Cyber security and AI**.  
 - 📚 Love attending **lectures and workshops** to broaden knowledge outside my course.  
-- 🎵 Music lover and occasional **drum machine tinkerer**.  
+- 🎵 Music lover and occasional **drum machine tinkerer**, **I also enjoy watching soccer**.  
 
 ---
 
